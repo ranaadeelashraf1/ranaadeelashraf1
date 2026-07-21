@@ -111,7 +111,76 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header&width=100%" width="100%"/>
 
-## 📌 Pinned Projects
+## 🧭 My Journey
+
+```
+2021 ─┬─ 🎓 Started Software Engineering @ Superior University
+      │
+2022 ─┼─ 💻 Learned Full-Stack fundamentals (MERN / MEAN)
+      │
+2023 ─┼─ 📜 Completed Training @ Excellence Delivered Pvt. Ltd.
+      │
+2024 ─┼─ 🚀 Built & shipped multiple client web applications
+      │
+2025 ─┼─ 🏢 Joined ZakRs as a Software Engineer
+      │
+2026 ─┴─ 🌱 Exploring advanced frameworks & cloud architecture
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header&width=100%" width="100%"/>
+
+## 📌 Featured Projects
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔹 Project One</h3>
+      <p>Short description of what this project does, the problem it solves, and who it's for.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white" />
+      </p>
+      <a href="https://github.com/ranaadeelashraf1/your-repo-1"><b>🔗 View Repo</b></a> · <a href="#"><b>🌐 Live Demo</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔹 Project Two</h3>
+      <p>Short description of what this project does, the problem it solves, and who it's for.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      </p>
+      <a href="https://github.com/ranaadeelashraf1/your-repo-2"><b>🔗 View Repo</b></a> · <a href="#"><b>🌐 Live Demo</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔹 Project Three</h3>
+      <p>Short description of what this project does, the problem it solves, and who it's for.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+      </p>
+      <a href="https://github.com/ranaadeelashraf1/your-repo-3"><b>🔗 View Repo</b></a> · <a href="#"><b>🌐 Live Demo</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔹 Project Four</h3>
+      <p>Short description of what this project does, the problem it solves, and who it's for.</p>
+      <p>
+        <img src="https://img.shields.io/badge/WordPress-117AC9?style=flat-square&logo=WordPress&logoColor=white" />
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+      </p>
+      <a href="https://github.com/ranaadeelashraf1/your-repo-4"><b>🔗 View Repo</b></a> · <a href="#"><b>🌐 Live Demo</b></a>
+    </td>
+  </tr>
+</table>
+
+<div align="center"><sub>⚠️ Replace project titles, descriptions, repo links, and demo links with your real project details.</sub></div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header&width=100%" width="100%"/>
+
+## 📈 GitHub Pins
 
 <div align="center">
 
@@ -124,6 +193,99 @@
 
 <sub>⚠️ Replace <code>your-repo-1</code> / <code>your-repo-2</code> with your actual repository names above.</sub>
 
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header&width=100%" width="100%"/>
+
+## 🎓 Certifications & Achievements
+
+- 🏅 Software Engineering — *Superior University* (In Progress / Completed)
+- 🏅 Professional Training — *Excellence Delivered Private Limited*
+- 🏅 Add any online course certificates (Coursera, Udemy, freeCodeCamp, etc.)
+- 🏅 Add any hackathon wins, competitions, or notable recognitions
+
+<sub>⚠️ Replace the placeholders above with your actual certificates and achievements.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header&width=100%" width="100%"/>
+
+## 💬 What People Say
+
+> *"Add a short testimonial from a client, teammate, or manager here — it builds trust for anyone visiting your profile."*
+> — **Name, Role**
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header&width=100%" width="100%"/>
+
+## ☕ Support My Work
+
+<div align="center">
+<a href="https://www.buymeacoffee.com/">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+</a>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header&width=100%" width="100%"/>
+
+## 📶 Skill Proficiency
+
+<div align="center">
+
+| Skill | Proficiency |
+|---|---|
+| JavaScript / TypeScript | ████████████████░░░░ 80% |
+| React.js / Next.js | ████████████████░░░░ 80% |
+| Node.js / Express.js | ███████████████░░░░░ 75% |
+| MongoDB / MySQL | ██████████████░░░░░░ 70% |
+| Angular | █████████████░░░░░░░ 65% |
+| C++ / Java | ████████████░░░░░░░░ 60% |
+| WordPress / CMS | ████████████████░░░░ 80% |
+| System Architecture & Cloud | ██████████░░░░░░░░░░ 50% |
+
+<sub>⚠️ Adjust the percentages above to honestly reflect your real skill level.</sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header&width=100%" width="100%"/>
+
+## 🌐 Languages I Speak
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Urdu-Native-6DA55F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/English-Fluent-blueviolet?style=for-the-badge" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header&width=100%" width="100%"/>
+
+## ✅ Currently Available For
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Freelance-Available-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Full--Time-Open%20to%20Offers-yellow?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Collaboration-Yes-blue?style=for-the-badge" />
+
+<sub>⚠️ Update these badges to reflect your real current availability.</sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header&width=100%" width="100%"/>
+
+## ✍️ Latest Blog Posts / Articles
+
+- 📝 [Article Title One](#) — one-line summary of what it covers
+- 📝 [Article Title Two](#) — one-line summary of what it covers
+- 📝 [Article Title Three](#) — one-line summary of what it covers
+
+<sub>⚠️ Replace with your actual blog/Medium/Dev.to/Hashnode links, or remove this section if you don't write articles.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header&width=100%" width="100%"/>
+
+## 🗓️ Weekly Coding Activity
+
+<div align="center">
+<img src="https://github-readme-stats.shion.dev/api/wakatime?username=ranaadeelashraf1&theme=radical&hide_border=true&layout=compact&border_radius=10" width="60%"/>
+<br><sub>⚠️ Requires WakaTime account linked to your GitHub username to display data.</sub>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header&width=100%" width="100%"/>
@@ -155,6 +317,11 @@
 
 <i>"Thanks for stopping by — feel free to explore my repos and connect!"</i> ✨
 
+<br><br>
+
+<img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=flat-square" />
+<img src="https://img.shields.io/badge/Status-Actively%20Building-brightgreen?style=flat-square" />
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
