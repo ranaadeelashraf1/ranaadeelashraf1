@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rana%20Adeel%20Ashraf&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Rana%20Adeel%20Ashraf&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
 <a href="https://linkedin.com/in/rana-adeel-ashraf-92b8bb291">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -12,25 +12,31 @@
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
+<br><br>
+
 <img src="https://komarev.com/ghpvc/?username=ranaadeelashraf1&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/ranaadeelashraf1?style=for-the-badge&color=blueviolet&label=FOLLOWERS" />
 
 </div>
 
 <br>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header&width=100%" width="100%"/>
+
 ## 💫 About Me
 
 ```yaml
-🏢 Currently working at:     ZakRs (Web & Software Development)
-🎓 Education:                 Software Engineering, Superior University
-📜 Training:                  Excellence Delivered Private Limited
-🌱 Currently learning:        Advanced frameworks & modern tech stacks
-🤝 Open to collaborate on:    Open-source projects & web applications
-💬 Ask me about:              Software Engineering, Web Development
-🎯 Looking for help with:     System architecture & cloud integration
+🏢 Currently working at:      ZakRs (Web & Software Development)
+🎓 Education:                  Software Engineering, Superior University
+📜 Training:                   Excellence Delivered Private Limited
+🌱 Currently learning:         Advanced frameworks & modern tech stacks
+🤝 Open to collaborate on:     Open-source projects & web applications
+💬 Ask me about:               Software Engineering, Web Development
+🎯 Looking for help with:      System architecture & cloud integration
+⚡ Fun fact:                   I turn ☕ into 🖥️ code
 ```
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header&width=100%" width="100%"/>
 
 ## 💻 Tech Stack
 
@@ -72,7 +78,7 @@
 
 </div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header&width=100%" width="100%"/>
 
 ## 📊 GitHub Stats
 
@@ -83,9 +89,11 @@
 
 <img src="https://streak-stats.demolab.com/?user=ranaadeelashraf1&theme=radical&hide_border=true&border_radius=10" width="98%"/>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ranaadeelashraf1&theme=redical&hide_border=true&area=true" width="98%"/>
+
 </div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header&width=100%" width="100%"/>
 
 ## 🏆 GitHub Trophies
 
@@ -93,7 +101,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=ranaadeelashraf1&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" />
 </div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header&width=100%" width="100%"/>
 
 ## 🔝 Top Contributed Repo
 
@@ -101,7 +109,24 @@
 <img src="https://github-contributor-stats.vercel.app/api?username=ranaadeelashraf1&limit=5&theme=radical&combine_all_yearly_contributions=true" width="70%"/>
 </div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header&width=100%" width="100%"/>
+
+## 📌 Pinned Projects
+
+<div align="center">
+
+<a href="https://github.com/ranaadeelashraf1?tab=repositories">
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=ranaadeelashraf1&repo=your-repo-1&theme=radical&hide_border=true&border_radius=10" width="48%" />
+</a>
+<a href="https://github.com/ranaadeelashraf1?tab=repositories">
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=ranaadeelashraf1&repo=your-repo-2&theme=radical&hide_border=true&border_radius=10" width="48%" />
+</a>
+
+<sub>⚠️ Replace <code>your-repo-1</code> / <code>your-repo-2</code> with your actual repository names above.</sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header&width=100%" width="100%"/>
 
 <div align="center">
 
@@ -113,7 +138,23 @@
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
+### 🤝 Let's Connect
+
+<a href="https://linkedin.com/in/rana-adeel-ashraf-92b8bb291">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://instagram.com/rana_adeelashraf">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+</a>
+<a href="mailto:ranaadeelashraf@icloud.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br><br>
+
+<i>"Thanks for stopping by — feel free to explore my repos and connect!"</i> ✨
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
